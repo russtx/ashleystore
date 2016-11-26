@@ -1,7 +1,7 @@
 /*!
 	Theme Name: Ashleys Store
 	Theme URI: toplinemediateam.com
-	Description: Custombuilt Theme for Ashley 
+	Description: Custombuilt Theme for Ashley
 	Version: 1.4.3
 	Author: Russ Berge
 	Author URI: toplinemediateam.com
@@ -92,8 +92,8 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-	max-width:1280px;
-	width:95%;
+	max-width:100px;
+	width:100%;
 	margin:0 auto;
 	position:relative;
 }
@@ -103,10 +103,9 @@ input:focus {
 }
 /* logo */
 .logo {
+    img{
 
-}
-.logo-img {
-
+  }
 }
 /* nav */
 .upper-menu{
@@ -162,32 +161,7 @@ nav input[type="checkbox"]{
     font-style:normal;
 }
 
-/*------------------------------------*\
-    RESPONSIVE
-\*------------------------------------*/
 
-@media only screen and (min-width:320px) {
-
-}
-@media only screen and (min-width:480px) {
-
-}
-@media only screen and (min-width:768px) {
-
-}
-@media only screen and (min-width:1024px) {
-
-}
-@media only screen and (min-width:1140px) {
-
-}
-@media only screen and (min-width:1280px) {
-
-}
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),
-	   only screen and (min-resolution:144dpi) {
-
-}
 
 /*------------------------------------*\
     MISC
